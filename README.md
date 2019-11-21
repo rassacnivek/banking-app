@@ -1,4 +1,4 @@
-# Recipe App
+# Banking App
 
 A React native app that allows you to search for recipes via EDAMAM's API.
 
